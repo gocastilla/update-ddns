@@ -1,0 +1,30 @@
+{
+  "name": "update-ddns",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/main.js",
+  "types": "lib/main.d.ts",
+  "dependencies": {
+    "@types/request": "^2.48.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.2",
+    "tslint": "^5.19.0",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gocastilla/update-ddns.git"
+  },
+  "author": "Alberto Gómez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gocastilla/update-ddns/issues"
+  },
+  "homepage": "https://github.com/gocastilla/update-ddns#readme"
+}
