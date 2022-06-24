@@ -22,3 +22,5 @@ updateDDNS(Providers.GoogleDomains, credentials, domain)
   .then(response => console.log(response))
   .catch(error => console.log(error));
 ```
+
+Lorem Ipsum bla bla bla
